@@ -1,0 +1,11 @@
+Client Code Screen
+Background Color: #FFFFFF
+Font Color: #000000
+
+Inner Screens
+Background Color: #F6F6F6
+Font Color: #666666
+
+Bottom Bar Color: #673AB7
+Top Bar Color: #673AB7
+Divider/Separator Color: #DDDDDD (used in products, wishlist detail)
